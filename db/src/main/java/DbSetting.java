@@ -7,5 +7,4 @@ public class DbSetting {
         this.name = name;
         this.password = password;
     }
-
 }

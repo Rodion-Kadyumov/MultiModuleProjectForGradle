@@ -1,4 +1,5 @@
-rootProject.name = 'project2'
-include 'db'
+rootProject.name = 'gradle-example'
 include 'api'
+include 'db'
 include 'service'
+

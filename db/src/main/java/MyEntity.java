@@ -21,7 +21,7 @@ public class MyEntity {
         return name;
     }
 
-    public void setName(String name) {
+    public void setName() {
         this.name = name;
     }
 
